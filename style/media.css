@@ -1,0 +1,609 @@
+@media(max-width: 1400px){
+    .container{
+        max-width: 1200px;
+    }
+    
+    
+    
+    
+    .hedright{
+        width: 40%;
+        
+    }
+    
+    .sec6left{
+        width: 60%;
+    }
+    
+    .mrgn{
+        margin: 0 100px 0 292px;
+    }
+}
+@media(max-width: 1200px){
+    .container{
+        max-width: 960px;
+    }
+    
+    .leftzag{
+        font-size: 50px;
+    }
+    
+    .hedzag{
+        font-size: 32px;
+        line-height: 35px;
+    }
+    
+    .header{
+        height: 790px;
+    }
+    
+    .container2{
+        max-width: 800px;
+    }
+    
+    .div{
+        padding: 15px;
+    }
+    
+    .main_card_zag{
+        font-size: 18px;
+       
+    }
+    
+    .sec6zag{
+        width: 423px;
+        font-size: 32px;
+        line-height: 50px;
+    }
+    
+    .sec6text{
+        width: 386px;
+        margin: 20px 0 15px;
+    }
+    
+    .sec6left{
+        margin-top: 50px;
+    }
+    
+    
+    .mrgn{
+        margin: 0 70px 0 202px;
+    }
+    
+    
+    .footerlink{
+        font-size: 10px;
+        line-height: 22px;
+    }
+    
+    .contact{
+        font-size: 13px;
+    }
+    .fs{
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .section2{
+        padding: 50px 0 70px;
+    }
+    
+    .sec4zag{
+        width: 587px;
+        font-size: 56px;
+        line-height: 70px;
+    }
+    .sec4text{
+        width: 430px;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .section4{
+        padding: 80px 0;
+    }
+    
+    .mainblock{
+        margin-top: 50px;
+    }
+    .cardzag{
+        margin: 16px 0;
+    }
+    .sec2zag{
+        width: 503px;
+        font-size: 32px;
+        line-height: 50px;
+    }
+    .block{
+        margin: 50px  45px 0 45px;
+    }
+    .mt114{
+        margin-top: 64px;
+    }
+    .section3{
+        padding: 70px 0;
+    }
+    
+    .div{
+        padding: 10px;
+    }
+    
+    .sec7zag{
+        margin-top: 50px;
+        font-size: 34px;
+        line-height: 50px;
+    }
+    .sec7text{
+        width: 500px;
+        font-size: 14px;
+        margin-top: 14px;
+    }
+    
+    .blockk{
+        margin-top: 50px;
+    }
+    
+    .section7{
+        padding: 80px 0;
+    }
+    
+    
+
+    
+    .container3{
+        max-width: 960px;
+    }
+    .sec3zag{
+        width: max-content;
+        margin: 0 auto;
+    }
+    
+    .sec3text{
+        width: 500px;
+        margin: 0 auto;
+        margin-top: 10px;
+        line-height: 30px;
+        font-size: 12px;
+        text-align: center;
+    }
+    .footcard{
+        margin-right: 20px;
+    }
+    .footer{
+        padding: 50px 0;
+    }
+    .link2{
+        width: 137px;
+        margin: 0 auto;
+        display: flex;
+        margin-top: 10px;
+        
+    }
+    .link3{
+        width: max-content;
+    }
+    .section6{
+        padding: 50px 0 0 0;
+    }
+    .linkk{
+        width: max-content;
+    }
+    .section{
+        padding: 43px 0 61px;
+    }
+    
+}
+@media(max-width:960px){
+    .container{
+        max-width: 720px;
+    }
+    
+    .hedcontent{
+        margin-top: 30px;
+    }
+    
+    .hedzag{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .hedright_text{
+        font-size: 15px;
+        margin: 10px 0;
+        line-height: 30px;
+    }
+    
+    .header{
+        height: 600px;
+    }
+    .leftzag{
+        font-size: 42px;
+        line-height: 37px;
+    }
+    
+    .container3{
+        max-width: 720px;
+        
+    }
+    .block{
+        margin: 15px 0;
+        justify-content: center;
+    }
+    
+    .mt114{
+        margin: 0;
+    }
+    .card{
+        margin-top: 30px;
+    }
+    .cardzag{
+        font-size: 25px;
+        margin: 5px 0;
+    }
+    .cardtext{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .sec3text{
+        margin: 0 auto;
+    }
+    .section3{
+        padding: 30px 0;
+    }
+    .div{
+        padding: 5px ;
+    }
+    .main_card_zag{
+        margin: 0;
+        font-size: 15px;
+    }
+    .mainlink{
+        font-size: 13px;
+    }
+    .sec4zag{
+        font-size: 32px;
+        line-height: 30px;
+    }
+    .sec4text{
+        margin-top: 10px;
+    }
+    .mainblock{
+        margin-top: 20px;
+    }
+    .section4{
+        padding: 30px 0;
+    }
+    .section5{
+        height: 400px;
+    }
+    .sec5zag{
+        font-size: 50px ;
+        padding-top: 150px;
+    }
+    
+    .sec6zag{
+        width: 600px;
+        margin: 0 auto;
+        font-size: 25px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        line-height: 40px;
+    }
+    .sec6con{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .sec6left{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .sec6text{
+        font-size: 15px;
+        line-height: 30px;
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .link0{
+        display: flex;
+        
+        margin: 0 auto;
+    
+    }
+    .sec6right{
+        display: none;
+        width: 70%;
+    }
+    
+    .section6{
+        padding: 0;
+    }
+  .mrgn{
+      margin: 0 30px 0 100px;
+  }
+  .container2{
+      max-width: 600px;
+  }
+  .section{
+      padding: 40px 0;
+  }
+}
+
+@media(max-width:720px){
+    .container{
+        max-width: 480px;
+    }
+    
+    .ml2{
+        margin-left: 8px;
+    }
+    .link{
+        margin-left: 8px;
+    }
+    .linkk{
+        padding: 5px;
+        font-size: 10px;
+    }
+    .mainblock{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .maincard{
+        width: 85%;
+        margin-top: 20px;
+    }
+    
+    .sec4zag{
+        width: max-content;
+        font-size: 27px;
+        margin: 0 auto;
+    }
+    
+    .sec4text{
+        line-height: 23px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 5px;
+    }
+    
+    .hedcontent{
+        flex-direction: column;
+    }
+    .hedleft{
+        width: 80%;
+    }
+    
+    .header{
+        height: 800px;
+    }
+    
+    .hedright{
+        width: 80%;
+        text-align: center;
+    }
+    
+    .link2{
+        margin: 0 auto;
+    }
+    
+    .container2{
+        max-width: 450px;
+    }
+    
+    .link3{
+        margin: 0 ;
+        margin-top: 8px;
+        display: flex;
+        justify-content: center;
+        
+    }
+    
+    .sec3text{
+        width: 450px;
+        text-align: center;
+        margin: 10px 0;
+    }
+    
+    .sec5zag{
+        width: max-content;
+        font-size: 38px;
+        margin: 0 auto;
+        padding-top: 115px;
+    }
+    
+    .section5{
+        height: 300px ;
+        
+    }
+    
+    .sec6zag{
+        width: 450px;
+    }
+    .link0{
+        margin: 0 auto;
+    }
+    
+    .section7{
+        padding: 40px 0;
+    }
+    
+    
+    .blockk{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .cardd{
+        width: 80%;
+        margin-bottom: 20px;
+    }
+    
+    .sec7zag{
+        margin-top: 20px;
+        line-height: 30px;
+    }
+    
+    .sec7text{
+        width: 450px;
+        line-height: 25px;
+    }
+    
+    .mrgn{
+        margin: 0;
+    }
+    
+    .footer_content{
+        width: ;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .fotfoto{
+        display: flex;  
+       width: max-content;
+       justify-content: center;
+    }
+    
+    .divv{
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .sec6text{
+        width: 400px;
+    }
+    
+    .sec2zag{
+        width: 450px;
+    }
+}
+@media(max-width:480px){
+    .container{
+        max-width: 320px;
+    }
+    
+    .navcontent{
+        flex-wrap: wrap;
+    }
+    
+    .list{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .ml2{
+        margin-bottom: px;
+    }
+    
+    .navlogo{
+        margin: 0 auto;
+        margin-bottom: 5px;
+    }
+    .linkk{
+        margin-top: 5px;
+    }
+    
+    .hedcontent{
+        width: 305px;
+    }
+    .leftzag{
+        font-size: 30px;
+    }
+    .hedright{
+        width: 290px;
+    }
+    .header{
+        height: 715px;
+    }
+    .sec2zag{
+        width: 290px;
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .card{
+        width: 80%;
+    }
+    .sec3text{
+        width: 290px;
+        line-height: 20px;
+    }
+    .sec4text{
+        width: 290px;
+        line-height: 20px;
+    }
+    .sec3zag{
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .sec4zag{
+        font-size: 16px;
+        font-weight: 700;
+    }
+    
+    .sec6zag{
+        width: 320px;
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .sec7zag{
+        width: 320px;
+        font-size: 23px;
+        line-height: 30px;
+        font-weight: 500;
+    }
+    
+    .sec6text{
+        width: 320px;
+        line-height: 20px;
+    }
+    .sec7text{
+        width: 320px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .cardd{
+        width: 90%;
+    }
+    
+    .cardzag{
+        width: 320px;
+    }
+    
+    .footcard{
+        margin-right: 5px;
+    }
+    .container2{
+        max-width: 320px;
+    }
+    
+    .section{
+        
+    }
+    .seclist{
+        flex-direction: column;
+        
+    }
+    
+    .sec5zag{
+        font-size: 20px;
+        padding-top: 60px;
+    }
+    
+    .section5{
+        height: 200px;
+    }
+    
+    .seclink{
+        margin-bottom: 10px;
+    }
+    .sec6zag{
+        width: 290px;
+    }
+    .sec6text{
+        width: 290px;
+    }
+}
